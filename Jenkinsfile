@@ -1,6 +1,6 @@
 pipeline{  
     environment {
-    registry = "abhilashagowda4241/docker-repository>>"
+    registry = "abhilashagowda4241/docker-repository"
     }
   agent any
   stages {
